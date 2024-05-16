@@ -1,0 +1,42 @@
+body,
+p   {
+    padding: 0;
+    margin: 0;
+    font-size: 1.5rem;      /* tamanho da fonte */
+    font-style: italic;     /* estilo */
+    color: rgb(80, 78, 78); /* cor do texto */
+    text-align: center;     /* alinhamento */
+    
+}
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+  
+
+.principal {
+ 
+   height: 100%;
+   width: 100%;
+   /* border:1px solid red; */
+   margin: 0;
+   padding: 0;
+}
+
+button{
+    width: 150px;
+    height: 40px;
+    margin-top: 5px;
+    background-color: #FFE4E6;
+    border-radius: 25px;
+    border:1px solid;
+}
+ 
+section {
+  background-color: #F6F6f6;
+  height: 100%;
+  /* border:1px solid yellow; */
+  width: 100%;
+}
+ 
+ 
